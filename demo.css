@@ -1,0 +1,33 @@
+* {
+    margin: 0; padding: 0;
+}
+
+h1, p {
+    margin: 10px 0;
+}
+
+body {
+    background: #eee;
+    font-family: sans-serif;
+}
+
+.title {
+    display: none;
+}
+.wrapper {
+    width: 80%;
+    max-width: 700px;
+    background: rgba(255,255,255,0.7);
+    padding: 15px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.5);
+    margin: 5px auto;
+}
+
+.passage {
+    margin-top: 20px;
+    padding: 5px;
+    border: 1px solid #aaa;
+    background: #eee;
+    font-size: 11px;
+    font-family: monospace;
+}
